@@ -1,9 +1,3 @@
-<style>
-.flex{
-  display: flex;
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Abdelhamied Mostafa</h1>
 <h3 align="center">full stack engineer from Cairo / Egypt.</h3>
 
