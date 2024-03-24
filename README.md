@@ -28,7 +28,7 @@
         </p>
       </td>
       <td valign="top" width="30%">
-        <img src="https://api.daily.dev/devcards/e524e40f678b40b78215b787134aa857.png?r=med" alt="Abdelhamied Mostafa's Dev Card"/>
+        <a href="https://app.daily.dev/abdelhamied200"><img src="https://api.daily.dev/devcards/v2/i1pbLY-0k.png?r=5ad" width="356" alt="Abdelhamied Mostafa's Dev Card"/></a>
       </td>
     </tr>
   </table>
